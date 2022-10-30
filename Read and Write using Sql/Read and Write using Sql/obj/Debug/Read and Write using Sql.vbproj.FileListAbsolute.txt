@@ -1,0 +1,12 @@
+C:\Users\marim\source\repos\Read and Write using Sql\Read and Write using Sql\bin\Debug\Read and Write using Sql.exe.config
+C:\Users\marim\source\repos\Read and Write using Sql\Read and Write using Sql\bin\Debug\Read and Write using Sql.exe
+C:\Users\marim\source\repos\Read and Write using Sql\Read and Write using Sql\bin\Debug\Read and Write using Sql.pdb
+C:\Users\marim\source\repos\Read and Write using Sql\Read and Write using Sql\bin\Debug\Read and Write using Sql.xml
+C:\Users\marim\source\repos\Read and Write using Sql\Read and Write using Sql\obj\Debug\Read and Write using Sql.vbproj.AssemblyReference.cache
+C:\Users\marim\source\repos\Read and Write using Sql\Read and Write using Sql\obj\Debug\Read_and_Write_using_Sql.Form1.resources
+C:\Users\marim\source\repos\Read and Write using Sql\Read and Write using Sql\obj\Debug\Read_and_Write_using_Sql.Resources.resources
+C:\Users\marim\source\repos\Read and Write using Sql\Read and Write using Sql\obj\Debug\Read and Write using Sql.vbproj.GenerateResource.cache
+C:\Users\marim\source\repos\Read and Write using Sql\Read and Write using Sql\obj\Debug\Read and Write using Sql.vbproj.CoreCompileInputs.cache
+C:\Users\marim\source\repos\Read and Write using Sql\Read and Write using Sql\obj\Debug\Read and Write using Sql.exe
+C:\Users\marim\source\repos\Read and Write using Sql\Read and Write using Sql\obj\Debug\Read and Write using Sql.xml
+C:\Users\marim\source\repos\Read and Write using Sql\Read and Write using Sql\obj\Debug\Read and Write using Sql.pdb
